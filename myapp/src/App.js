@@ -23,7 +23,7 @@ function App() {
           <div className='container' style={{display: 'flex', flexDirection: 'column', marginTop: '5em', gap:'2em', alignItems: 'center'}}>
             <h3 style={{color:'#2F3C7E'}}>Here are my inquires:</h3>
             <div className='container' style={{flexDirection: 'row', width: "350px",alignItems: 'center', border: '3px dashed #2F3C7E', padding: "1em"}} onClick={() =>{
-                window.open('https://jayden-yip-portfolio-qt7idjjsf-jaydens-projects-b5719c8f.vercel.app/')
+                window.open('https://jayden-yip-portfolio-jaydens-projects-b5719c8f.vercel.app/')
             }}>
                 <img src={website} alt="" />
                 <div className='container' style={{flex: 1, justifyContent: 'center'}}>
