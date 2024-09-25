@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className='container' style={{width: '100vw', height: 'auto', alignItems: 'center', flexDirection:'column', marginBottom: '10em'}}>
-          <div className='container' style={{flexDirection: 'column' , height: '40vh', width: '100vw', backgroundColor: '#2F3C7E', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div className='container' style={{flexDirection: 'column' , height: 'auto', width: '100vw', backgroundColor: '#2F3C7E', alignItems: 'center', gap: '5em'}}>
             <div className='container' style={{marginTop: '5em', padding:'1.5em', borderRadius: "50%", backgroundColor: "#FBEAEB"}}>
               <img src={man} alt=""/>
             </div>
